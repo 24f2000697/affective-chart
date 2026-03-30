@@ -1,7 +1,7 @@
 {
-  "prompt":"A vast ancient tree photographed from ground level looking up. The lower trunk and roots are covered in cool silver-blue frost and ice crystals, representing the calm pre-industrial era. As the eye travels up the trunk, the bark gradually shifts — warm amber, then burning orange, then urgent screaming red at the canopy. The upper branches are cracked, dry, almost skeletal, glowing ember-red against a dark ashen sky. The transition from cool to burning happens visibly faster in the upper third of the tree — slow change below, violent change above. No text, no labels, no charts, no axes, no thermometers, no globes. Hyper-detailed, abstract artistic style, dramatic chiaroscuro lighting, shot from below with wide angle lens. The feeling of a slow catastrophe suddenly accelerating beyond control."
-  "model":"DALL-E 3 via ChatGPT"
-  "dataset_name":"Global land and ocean average temprature anamoly"
-  "dataset_url":"https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/global/time-series/globe/land_ocean/tavg/1/0/1850-2026"
-  "insight":"A sharp and alalrming increase in global average temprature"
+  "prompt": "A vast ancient tree photographed from ground level looking up. The lower trunk and roots are covered in cool silver-blue frost and ice crystals, representing the calm pre-industrial era. As the eye travels up the trunk, the bark gradually shifts — warm amber, then burning orange, then urgent screaming red at the canopy. The upper branches are cracked, dry, almost skeletal, glowing ember-red against a dark ashen sky. The transition from cool to burning happens visibly faster in the upper third of the tree — slow change below, violent change above. No text, no labels, no charts, no axes, no thermometers, no globes. Hyper-detailed, abstract artistic style, dramatic chiaroscuro lighting, shot from below with wide angle lens. The feeling of a slow catastrophe suddenly accelerating beyond control.",
+  "model": "DALL-E 3 via ChatGPT",
+  "dataset_name": "Global Land and Ocean Average Temperature Anomaly",
+  "dataset_url": "https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/global/time-series/globe/land_ocean/tavg/1/0/1850-2026",
+  "insight": "A sharp and alarming increase in global average temperature after 1980, with the rate of warming visibly accelerating in recent decades."
 }
